@@ -1,0 +1,21 @@
+{
+"cavaleiros":[
+    {
+       "id":1,
+       "nome":"Seiya de Pegaso v2",
+       "modelo":"EX",
+       "imagem":"https://www.jovanellimodelismo.com.br/image/cache/data/LINHA%20EX/cx%20seiya%20ex-300x300.jpg"
+    },
+    {
+       "id":2,
+       "nome":"Mu de Áries",
+       "modelo":"EX",
+       "imagem":"https://static.mercadoshops.com/cloth-myth-20-mu-de-aries-ex-bandai_iZ510780278XvZcXpZ1XfZ35807166-80624056660-6.jpgXsZ35807166xIM.jpg"
+    },
+    {
+       "id":3,
+       "nome":"Poseidon",
+       "modelo":"EX",
+       "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaFWOl6WyqILtDW8bcAxz5RjUbp6TkyBYtwJLfM2SCapN1Gsks&usqp=CAU"
+    }
+ ]}
